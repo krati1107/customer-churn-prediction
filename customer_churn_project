@@ -1,0 +1,9 @@
+customer_churn_project/
+│
+├── data/
+│   └── churn_data.csv
+│
+├── analysis/
+│   └── churn_analysis.py
+│
+└── README.md
